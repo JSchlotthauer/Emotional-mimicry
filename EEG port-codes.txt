@@ -1,0 +1,10 @@
+EEG port-codes:
+1  : SUBJECT RESPONSE
+20 : Happy video
+30 : Sad video
+40 : IMS synchron
+50 : IMS asynchron
+60 : Transformation task I
+70 : Transformation task II
+80 : Neutral video
+99 : Video finalization
